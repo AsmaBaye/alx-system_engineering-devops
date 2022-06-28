@@ -1,2 +1,1 @@
-# Shell I/O Redirection and Filtering
-0. Alias
+0 - Alias =>  Create a script that creates an alias. Name: ls Value: rm *
