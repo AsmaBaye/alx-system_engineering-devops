@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
-# Script that turns on an Apache Server
-service apache2 start
+# This script performs the follwing actions
+#     starts the apache2 server
+
+sudo service apache2 start
